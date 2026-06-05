@@ -81,7 +81,6 @@ Examples:
 
 - Google Ads
 - Google Keyword Planner
-- Google Analytics
 - Google Tag Manager
 
 ---
