@@ -23,8 +23,6 @@ I am a Digital Marketing Executive specializing in:
 
 ### Analytics Projects
 
-### Looker Studio Dashboards
-
 ### Keyword Research
 
 ### Landing Page Audits
